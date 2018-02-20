@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+f:\universidade\1º ano\2º semestre\project6\project6\MyForm.h(544): warning C4018: '<': signed/unsigned mismatch
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Project6.vcxproj -> F:\Universidade\1º ano\2º semestre\Project6\Debug\Project6.exe
+  Project6.vcxproj -> F:\Universidade\1º ano\2º semestre\Project6\Debug\Project6.pdb (Partial PDB)
